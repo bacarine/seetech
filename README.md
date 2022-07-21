@@ -1,1 +1,1 @@
-# see-tech
+# seetech
